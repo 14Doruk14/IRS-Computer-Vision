@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+obj/
+*.exe
+*.o
+
+# Code::Blocks local files and backups
+*.depend
+*.layout
+*.bak
+
+# Generated images (results kept as .png)
+*.pgm
+*.ppm
+!arena.ppm
